@@ -6,7 +6,7 @@
         "php",
         "hyperf"
     ],
-    "description": "Simple user settings facade for LHyperf.",
+    "description": "Simple user settings util for Hyperf.",
     "autoload": {
         "psr-4": {
             "Lysice\\HyperfUserSettings\\": "src/"
