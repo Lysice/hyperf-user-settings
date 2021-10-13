@@ -38,7 +38,7 @@ if (!function_exists('setting')) {
     /**
      * Helper function for Setting facade.
      * @param null $userId
-     * @return \App\UserSettings\Setting
+     * @return Lysice\HyperfUserSettings\Setting
      */
     function setting($userId = null)
     {
