@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=7.3",
-        "hyperf/framework": "2.*"
+        "hyperf/framework": ">=2.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.14",
